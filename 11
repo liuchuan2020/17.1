@@ -1,1 +1,20 @@
 
+  "app": {
+    "version": "6.1.0",
+    "versionCode": "165",
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/manager-v6.1.0/MagiskManager-v6.1.0.apk"
+  },
+  "magisk": {
+    "version": "17.1",
+    "versionCode": "17100",
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/v17.1/Magisk-v17.1.zip",
+    "md5": "0f1b25d88be4fd2ac5fb53e0584bcdc2"
+  },
+  "uninstaller": {
+    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/master/canary_builds/magisk-uninstaller.zip"
+  },
+  "snet": {
+    "versionCode": "12",
+    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/master/snet.apk"
+  }
+}
